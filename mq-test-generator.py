@@ -30,7 +30,7 @@ mq_features = [
     MQFeature("inverted-colors", ["none", "inverted"]),
 
     MQFeature("pointer", ["none", "coarse", "fine"]),
-    MQFeature("hover", ["none", "on-demand", "hover"]),
+    MQFeature("hover", ["none", "hover"]),
     MQFeature("any-pointer", ["none", "coarse", "fine"]),
     MQFeature("any-hover", ["none", "on-demand", "hover"]),
 
